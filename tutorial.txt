@@ -1,12 +1,12 @@
-hi!
-welcome to the tutorial.
-to win the game you must do better in one these categories:
-intelligence, this is measured between 1 and 100, the highest score wins
-exercise, this is meashured between 1 and 10, the highest score wins
-friendliness, this is measured between 1 and 10, the highest score wins
-drool, this is heasured between 1 and 10, the lowest score wins the round
+Hi!
+Welcome to the tutorial.
+To win the game you must do better in one these categories:
+Intelligence, this is measured between 1 and 100, the highest score wins.
+Exercise, this is measured between 1 and 10, the highest score wins.
+Friendliness, this is measured between 1 and 10, the highest score wins.
+Drool, this is measured between 1 and 10, the lowest score wins the round.
 
-this is a round based game. the player starts by picking a catagorie and if the player wins the player pickes again.
-but if the computer wins last round the computer picks the catagory randomly.
+This is a round based game. The player starts by picking a category. If the player wins they pick again.
+If the computer wins the last round the computer picks the category randomly.
 
-good luck player and have fun!
+Good luck player and have fun!
