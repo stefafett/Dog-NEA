@@ -92,11 +92,18 @@ def compwin():
         friendliness()
     if p==4:
         drooll()
+#dose the player want to read the tutorial
+def tutorial():
+    p=input("do you want to read the tutorial \n type y for yes and n for no")
+    if p=="y":
+        f=open("tutorial.txt","r")
+        print(f.read())
 
 
 #main start up sctipt
 
 while True:
+    tutorial()
     menu = input("do you want to start?""\n""enter y for yes or n for exit.")
     if menu == "y":
         break
