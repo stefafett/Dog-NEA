@@ -20,7 +20,7 @@ def dognames():
     friend = random.randint(1, 10)
     drool = random.randint(1, 10)
     particular_line = linecache.getline('dogs.txt', y)
-    print(particular_line,"exercise",exer, "intelligence", inta, "friendliness", friend, "drool", drool)
+    print(particular_line,"intelligence", inta,"exercise",exer, "friendliness", friend, "drool", drool)
     w=input("please hit enter to continue")
 
 #function for intalect
